@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Ryan, from Manchester, UK.
-- 👀 I’m interested in creating projects that provide value and producing things I can be proud of.
-- 🌱 Freelancer 
-- 📫 Reach me at rypoll@gmail.com
+I'm Ryan, a freelance data scientist that likes creating useful projects.
+
+Projects I've created:
+
+* [The AI Digestive](https://theaidigestive.com) - A newsletter aggregator the summarises and ranks AI news, based off SEO metrics, between different time frames. Serves as a central repository that hosts all different types of AI news in a quick and concise way.
+
 
 <!---
 rypoll/rypoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-I'm Ryan, a freelance AI specialist and data scientist that likes creating useful projects.
+I'm Ryan, a freelance AI specialist and data scientist. Providing value is extremely important to me--I want to see my work having a long-lasting and highly effective impact.
 
 Projects I've created:
 

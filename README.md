@@ -6,7 +6,7 @@ Projects I've created:
 
 * [ChadTDC - The Date Coach](https://play.google.com/store/apps/details?id=com.automiserai.ChadTDC) - A chatbot trained on dating advice from the world's best dating/relationship coaches.
 
-* AutoFlirt - A desktop app that gives  This uses ChatGPT and the user's own conversation history in order to suggest potential messages to send to matches, in the style of the user, in ordr to improve quality of conversations with matches.
+* AutoFlirt - A desktop app that uses ChatGPT and the user's own conversation history in order to suggest effective messages in the style of the user, to send to matches, in order to improve quality of conversations.
 
 * [Automated Airbnb](https://www.airbnb.co.uk/rooms/52876716?preview_for_ml=true&source_impression_id=p3_1698158287_L2UKK4xbb%2FTaEgVc) - Managing my airbnb remotely by automating processes, obtaining a  4.93 star rating.
 

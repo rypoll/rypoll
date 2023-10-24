@@ -2,9 +2,9 @@ I'm Ryan, a freelance AI specialist and data scientist. Providing value is extre
 
 Projects I've created:
 
-* [The AI Digestive](https://theaidigestive.com) - A newsletter aggregator the summarises and ranks AI news, based off SEO metrics, between different time frames. Serves as a central repository that hosts all different types of AI news that is presented in a quick and concise way, sorted by popularity. 
+* [The AI Digestive](https://theaidigestive.com) - A newsletter aggregator that summarises and ranks AI news, based off SEO metrics, between different time frames. Serves as a central repository that hosts all different types of AI news that is presented in a quick and concise way, sorted by popularity. 
 
-* [ChadTDC - The Date Coach](https://play.google.com/store/apps/details?id=com.automiserai.ChadTDC) - A chatbot trained on dating advice from the world's best dating/relationship coaches.
+* [ChadTDC - The Date Coach](https://play.google.com/store/apps/details?id=com.automiserai.ChadTDC) - A Android app chatbot trained on dating advice from the world's best dating/relationship coaches.
 
 * AutoFlirt - A desktop app that uses ChatGPT and the user's own conversation history in order to suggest effective messages in the style of the user, to send to matches, in order to improve quality of conversations.
 
